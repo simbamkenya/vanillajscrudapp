@@ -1,0 +1,44 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: rosybrown;
+}
+
+.container
+{
+    background-color: silver;
+    font-family: sans-serif;
+    font-size: large;
+    width: 60%;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+input[type=text], input[type = number] 
+{
+    width: 80%;
+    padding: 15px 22px;
+    margin: 10px 5px;
+    box-sizing: border-box;  
+}
+
+button
+{
+    background-color: #8842d5;
+    border: none;
+    color: white;
+    padding: 9px 18px;
+    text-decoration: none;
+    margin: 5px 4px;
+    cursor: pointer;
+}
+
+main > h1
+{
+    padding: 5px;
+}
+.banner>h1{
+    text-align: center;
+}
